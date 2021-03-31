@@ -10,3 +10,5 @@ cd rm_snap
 chmod +x rm_snap.sh
 ./rm_snap.sh
 ```
+## Website
+www.leifhenriksen.net/rm_snap.html
